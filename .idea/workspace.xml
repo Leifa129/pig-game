@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6ea7dbb-745c-4948-b3cb-a448a2ec41d8" name="Default Changelist" comment="styles.css">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modal/modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbergame/NumberGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbergame/numberGame.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piggame/PigGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piggame/img/dice-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piggame/img/dice-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piggame/img/dice-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piggame/img/dice-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piggame/img/dice-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piggame/img/dice-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/piggame/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l0Q5AHH1P0aMBl7w0vo0KDaORm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\leif_\AppData\Roaming\npm\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leif_\WebstormProjects\guesmynumber\src\numbergame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6ea7dbb-745c-4948-b3cb-a448a2ec41d8" name="Default Changelist" comment="" />
+      <created>1606731342026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606731342026</updated>
+      <workItem from="1606731343385" duration="18304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="15" key="CommitChangelistDialog2" timestamp="1606731868959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606731868959" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1606732036425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606732036425" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/modal/Modal.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
